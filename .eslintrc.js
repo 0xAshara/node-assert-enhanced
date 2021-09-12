@@ -6,7 +6,9 @@ module.exports = {
     'jest'
   ],
   rules: {
-    semi: [2, 'always']
+    'quote-props': [2, 'consistent'],
+    'semi': [2, 'always'],
+    'prefer-regex-literals': 0
   },
   env: {
     node: true,
