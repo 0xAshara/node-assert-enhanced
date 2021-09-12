@@ -1,6 +1,6 @@
 {
   "name": "assert-enhanced",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "An enhanced Node.js assert module",
   "main": "src/index.js",
   "files": ["src"],
